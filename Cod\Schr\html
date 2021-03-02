@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Schrodinger</title>
+  <style>
+    .rightpic{
+      float: right;
+    }
+  </style>
+  <link rel="stylesheet" type="text/css" href="Schrodinger.css">
+</head>
+
+<body>
+  <a href="https://t.me/IlovanGrigorii" id="tl"><img src="telegram.png" alt="" width="2.5%" class="rightpic"></a>
+
+  <a href="https://www.instagram.com/grigorii.schrodinger?r=nametag"><img src="1612492531602.png" alt="" width="3.3%" class="rightpic"></a>
+
+  <div id="dd"><h1 id="me">ME AND MY ATTEMPTS<br>TO LEARN IT.</br></h1></div>
+
+  <a href="https://drive.google.com/file/d/0B1KknyPVhTRJLV8tZ1lscUpncHM/view?usp=drivesdk" id="ss">Skills</a>
+
+
+    <div id="de"><h1 id="gr">Grigorii Schrodinger</h1>
+   <a id="fut">Future specialist in IT spheres</a></div> 
+ 
+
+    <div id="misha">Давай по новой, Миша, все х*йня!....</div>
+</body>
+
+</html>
